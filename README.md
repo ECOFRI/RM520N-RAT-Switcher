@@ -113,8 +113,6 @@ is required.
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tests\Static.Tests.ps1
 ~~~
 
-Before publishing a release, follow [RELEASE-CHECKLIST.md](RELEASE-CHECKLIST.md).
-The repository owner must choose the license; this project does not assume one.
 
 ## References
 
