@@ -1,5 +1,8 @@
 # Quectel RM520N RAT Switcher for Windows
 
+![image](./banner.png)
+
+
 A small Windows utility for selecting the preferred radio access technologies
 (RATs) exposed by a Quectel RM520N mobile-broadband adapter.
 
