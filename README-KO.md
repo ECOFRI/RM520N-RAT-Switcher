@@ -4,6 +4,8 @@
 Quectel RM520N WWAN 어댑터가 Windows에 보고하는 무선 접속 기술(RAT)을
 선택하는 작은 Windows 도구입니다.
 
+![image](./banner.png)
+
 [English README](README.md)
 
 ## 테스트 환경
