@@ -5,20 +5,6 @@ Quectel RM520N WWAN 어댑터가 Windows에 보고하는 무선 접속 기술(RA
 
 [English README](README.md)
 
-## 1.1.1 주요 변경점
-
-- Windows PowerShell 5.1에서 프리셋 목록 반환 시 발생하던 `인수 형식이
-  일치하지 않습니다` 오류를 수정했습니다.
-- LTE/5G 고정 버튼 대신 모뎀이 보고한 지원 RAT를 자동으로 표시합니다.
-- Automatic, LTE only, LTE + 5G NSA, 5G SA, 3G/HSPA, 2G, CDMA 프리셋을
-  지원 여부에 맞춰 동적으로 제공합니다.
-- 고급 사용자는 지원되는 데이터 클래스를 개별적으로 조합할 수 있습니다.
-- 긴 등록 작업을 별도 관리자 PowerShell 프로세스에서 실행하여 GUI가 멈추지
-  않고 진행 상황을 계속 표시합니다.
-- LTE와 5G NSA는 빠른 선택 버튼으로 그대로 제공합니다.
-- 5G NSA 선택 시 LTE 앵커가 빠지지 않도록 검증합니다.
-- 비동기 셀룰러 라디오 ON 상태 확인과 오류 시 최종 복구 절차를 유지합니다.
-
 ## 테스트 환경
 
 - Lenovo ThinkPad X1 Carbon Gen 13
