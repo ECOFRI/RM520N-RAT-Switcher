@@ -101,9 +101,6 @@ Windows와 드라이버에 전달하는 선호 데이터 클래스입니다. 요
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tests\Static.Tests.ps1
 ~~~
 
-공개 배포 전에는 [RELEASE-CHECKLIST.md](RELEASE-CHECKLIST.md)를 확인하세요.
-재배포 권한을 결정하는 라이선스는 저장소 소유자가 직접 선택해야 하므로 임의로
-추가하지 않았습니다.
 
 ## 기술 참고
 
